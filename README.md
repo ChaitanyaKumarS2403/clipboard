@@ -1,10 +1,10 @@
 # 📋 Clipboard
 
-| Title | Section |
-| :--- | :--- |
-| **Rainbow Line** | [Rainbow Line](#rainbow-line) |
-| **Social Links** | [Social Links Button](#social-links-button) |
-| **** | [](#) |
+| Section |
+| :--- |
+| [Rainbow Line](#rainbow-line) |
+| [Social Links Button](#social-links-button) |
+| [](#) |
 
 
 
